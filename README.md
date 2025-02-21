@@ -1,7 +1,7 @@
 # Hi there, I'm Haris! 👋  
 
 - 🔭 I’m currently refining my GitHub repository, contributing to open-source projects, and working on **full-stack development & AI/ML applications**.  
-- 🌱 Continuously expanding my tech stack—most recently focusing on **C, Erlang, and Clojure**, while deepening my expertise in **full-stack development and machine learning**.  
+- 🌱 Continuously expanding my tech stack, while deepening my expertise in **full-stack development and machine learning**.  
 - 💡 Open to collaboration, I believe in the power of **shared knowledge and teamwork** to drive innovation.  
 
 ---
